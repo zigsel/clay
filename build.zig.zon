@@ -1,0 +1,19 @@
+.{
+    .name = .clay,
+    .version = "0.1.0",
+    .fingerprint = 0x1c2526cb1836593e,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+        .clay_c = .{
+            .url = "git+https://github.com/nicbarker/clay#e6cc36941ab2af5d81107617039d6f527a1c660b",
+            .hash = "N-V-__8AAJD1dwCrm4WaLcFFKlMrXQwYNnAXSMjKC_4L1L9O",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+    },
+}
