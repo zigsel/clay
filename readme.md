@@ -1,4 +1,4 @@
-# clay-zig
+# clay
 
 Idiomatic Zig bindings for [Clay](https://github.com/nicbarker/clay), tracking
 `main` (the unreleased line **with transitions/animations and overlays**).
